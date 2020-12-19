@@ -1,0 +1,3 @@
+﻿  BinarySearchTree.cpp
+c:\users\ahsan\onedrive\desktop\project\dsa project\dsa project\binarysearchtree.cpp(206): warning C4715: 'BinarySearchTree::deleteStudent': not all control paths return a value
+  DSA Project.vcxproj -> C:\Users\Ahsan\OneDrive\Desktop\Project\DSA Project\Debug\DSA Project.exe
